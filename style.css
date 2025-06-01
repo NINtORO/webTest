@@ -18,7 +18,7 @@ body {
   overflow-x: hidden;
   font-family: Arial, sans-serif;
   background-color: #dae0e9;
-  background-image: url(/img/background.png);
+  background-image: url(img/background.png);
   background-blend-mode: screen, normal;
 }
 .area_poster {
